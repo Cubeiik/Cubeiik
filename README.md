@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Jakub 👋
 
-<!--
-**Cubeiik/Cubeiik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Flutter & Laravel Developer  
+🛠️ Creator of [zawizytuj.pl](https://zawizytuj.pl)  
+📱 Passionate about building clean and functional mobile apps  
 
-Here are some ideas to get you started:
+## 🧰 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Flutter, Dart  
+- Laravel, PHP  
+- Firebase, Stripe, REST APIs  
+- PostgreSQL, MySQL  
+- Git, Figma  
+
+## 📊 GitHub Stats
+
+![Jakub's GitHub stats](https://github-readme-stats.vercel.app/api?username=kubikjakub&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kubikjakub&layout=compact&theme=radical)
+
+## 📫 Connect with me
+
+- [LinkedIn](https://www.linkedin.com/in/kubikjakub)
+- [Portfolio](https://zawizytuj.pl)
